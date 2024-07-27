@@ -1,9 +1,9 @@
 # Password Generator App
 
 ## Features
--Generates a random Password
--Length can be Specified
--Inclusion of numbers, special characters can be specified
+ - Generates a random Password
+ - Length can be Specified
+- Inclusion of numbers, special characters can be specified
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
